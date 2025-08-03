@@ -33,4 +33,4 @@ make
 ##
 
 ### License
-Licensed under the GNU General Public License v3.0 or later. See [LICENSE.md](LICENSE.md)LICENSE.md for details.
+Licensed under the GNU General Public License v3.0 or later. See [LICENSE.md](LICENSE.md) for details.

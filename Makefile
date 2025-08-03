@@ -9,7 +9,7 @@ CC_OPTS+=-O2 -march=native
 CC_DEBUG+=-g
 CFLAGS+=-I$(IDIR) -Wall -Werror -Wextra -pedantic $(CC_OPTS)
 TARGET=$(shell uname -s | tr A-Z a-z)-$(shell uname -m)
-VERSION=0.4.1
+VERSION=0.4.2
 BIN_FULL=$(BIN)-$(VERSION)-$(TARGET)
 PATH_RELEASE:=release
 LOG=@echo -e "[make]"
