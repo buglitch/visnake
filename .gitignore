@@ -1,0 +1,6 @@
+*.a
+*.o
+*.swo
+*.swp
+visnake
+release/
