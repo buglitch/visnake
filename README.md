@@ -28,7 +28,7 @@ make
 - Move: `<n>[Ghjkl]` `$0HLM^_` `g[_g]`
 - Quit: `q`
 
-> `G`, `0` and `_g` are not implemented yet
+> `G`, `0` and `g_` are not implemented yet
 
 ##
 
